@@ -1067,6 +1067,7 @@ ul.social-icons {
          	width: 300px;
 		}
 		.about{
+			font-family: 'Roboto', sans-serif;
 			height:1470px;
 			margin-top: -200px;
 		}
@@ -1075,6 +1076,7 @@ ul.social-icons {
 			 height:2100px;
 		}
 		.knowledge{
+			font-family: 'Roboto', sans-serif;
 			margin-top: 20px;
 			font-size: 30px;
 			margin-right: -30px;
@@ -1095,9 +1097,11 @@ ul.social-icons {
 		}
 		
 		.mail-id{
+			font-family: 'Roboto', sans-serif;
 			font-size: 15px;
 		}
 		.last-text{
+			font-family: 'Roboto', sans-serif;
 			font-size: 20px;
 		}
 		.testimotionals .card { 
